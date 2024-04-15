@@ -1,0 +1,27 @@
+body{ background-color: rgb(78, 150, 209);
+color: black;
+}
+nav{
+    background-color:antiquewhite;
+    overflow: hidden;
+    height: 100px;
+    width: 2000px;
+}
+nav a{
+    color:black;
+    text-align: center;
+    padding: 15px 15px 15px 15px;
+    float: left;
+    text-decoration: none;
+}
+nav img{
+    width: 100px;
+    height: 100px;
+}
+nav a:hover{
+    background-color: lightgrey;
+    color: black;
+}
+img src="scenic-landscape-1499784730rFj.jpg" {
+    margin-right: 200px;
+}
